@@ -1,0 +1,265 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9740417280,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "The user is in telecom page",
+            "match": {
+              "location": "AddCustomerSteps.the_user_is_in_telecom_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9082161920,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user navigates to add customer details",
+            "match": {
+              "location": "AddCustomerSteps.the_user_navigates_to_add_customer_details()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2466753280,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "The user fill in the forms",
+            "match": {
+              "location": "AddCustomerSteps.the_user_fill_in_the_forms(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "fname",
+                  "lname",
+                  "email",
+                  "address",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "abcde",
+                  "kr@gmail.com",
+                  "tanjore",
+                  "8967"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "bcdef",
+                  "ar@gmail.com",
+                  "nil",
+                  "6789"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "cbdfr",
+                  "vr@gmail.com",
+                  "nil",
+                  "1234"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "dhjyr",
+                  "sr@gmail.com",
+                  "nil",
+                  "7865"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4155551573,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "The user submits the form",
+            "match": {
+              "location": "AddCustomerSteps.the_user_submits_the_form()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40989013,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "The customer should see the id is generated",
+            "match": {
+              "location": "AddCustomerSteps.the_customer_should_see_the_id_is_generated()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 11492410026,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "The user is in telecom page",
+            "match": {
+              "location": "AddCustomerSteps.the_user_is_in_telecom_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9029445547,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user navigates to add customer details",
+            "match": {
+              "location": "AddCustomerSteps.the_user_navigates_to_add_customer_details()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1228005973,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "The user fill in the forms",
+            "match": {
+              "location": "AddCustomerSteps.the_user_fill_in_the_forms(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "fname",
+                  "lname",
+                  "email",
+                  "address",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "abcde",
+                  "kr@gmail.com",
+                  "tanjore",
+                  "8967"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "bcdef",
+                  "ar@gmail.com",
+                  "nil",
+                  "6789"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "cbdfr",
+                  "vr@gmail.com",
+                  "nil",
+                  "1234"
+                ]
+              },
+              {
+                "cells": [
+                  "text",
+                  "dhjyr",
+                  "sr@gmail.com",
+                  "nil",
+                  "7865"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5970399573,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "The user submits the form",
+            "match": {
+              "location": "AddCustomerSteps.the_user_submits_the_form()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40416853,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "The customer should see the id is generated",
+            "match": {
+              "location": "AddCustomerSteps.the_customer_should_see_the_id_is_generated()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resources/AddCustomer.feature",
+    "tags": []
+  }
+]
